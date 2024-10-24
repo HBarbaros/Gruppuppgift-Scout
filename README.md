@@ -13,6 +13,7 @@ Vi i Bengtsfors Scoutförening organiserar många aktiviteter för våra medlemm
 - Skicka påminnelser om kommande aktiviteter
 - Ta bort scoutledaren
 - Ta bort aktiviteter
+- Lägg till eld
 
 ## Uppgift
 
