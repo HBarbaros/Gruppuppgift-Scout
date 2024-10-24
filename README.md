@@ -14,6 +14,7 @@ Vi i Bengtsfors Scoutförening organiserar många aktiviteter för våra medlemm
 - Ta bort scoutledaren
 - Ta bort aktiviteter
 - Tabort till eld
+- Ny uppgift
 
 ## Uppgift
 
