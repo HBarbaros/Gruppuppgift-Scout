@@ -6,7 +6,7 @@ Karl Pulli
 
 Vi i Bengtsfors Scoutförening organiserar många aktiviteter för våra medlemmar, men vi har svårt att hålla koll på vem som deltar och vilka aktiviteter som har genomförts. Vi skulle vilja ha ett system där vi kan logga varje aktivitet och notera vilka som varit närvarande. Det vore också bra om vi kunde följa upp med noteringar om vad vi gjorde under aktiviteten, så vi har historik på genomförda scoutmöten. Dessutom vore det bra om vi kunde skicka automatiska påminnelser om kommande aktiviteter. Så, vi vill ett system som kan
 - Lägga till nya scouter
-- Lägga till nya aktiviteter
+- Lägga till nya aktiviteter till senare
 - Lägga till deltagare till aktiviteter
 - Visa genomförda aktiviteter
 - Skicka påminnelser om kommande aktiviteter
