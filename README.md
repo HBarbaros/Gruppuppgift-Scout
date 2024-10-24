@@ -11,6 +11,7 @@ Vi i Bengtsfors Scoutförening organiserar många aktiviteter för våra medlemm
 - Visa genomförda aktiviteter
 - Skicka påminnelser om kommande aktiviteter
 - Ta bort scouter
+- Ta bort aktiviteter
 
 ## Uppgift
 
